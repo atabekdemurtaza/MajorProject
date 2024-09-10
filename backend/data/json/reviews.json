@@ -1,0 +1,758 @@
+[
+{
+  "model": "core_reviews.review",
+  "pk": 1,
+  "fields": {
+    "public_id": "1335c84a-33d9-40c1-9fd8-bfdd0af6d838",
+    "created": "2024-08-31T12:38:24.693Z",
+    "updated": "2024-08-31T12:38:24.693Z",
+    "product": 2,
+    "author": 1,
+    "rating": 0,
+    "comment": "I will have a purchase during the 5 days",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 3,
+  "fields": {
+    "public_id": "a56eaa79-ca4d-4b33-bf47-79c615ec08d0",
+    "created": "2024-09-01T10:33:46.865Z",
+    "updated": "2024-09-01T10:33:46.866Z",
+    "product": 2,
+    "author": 3,
+    "rating": 5,
+    "comment": "The best thin i ve ever seen.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 4,
+  "fields": {
+    "public_id": "2e2e9499-7455-4983-8e98-72e1fdb71bd4",
+    "created": "2024-09-01T10:55:25.963Z",
+    "updated": "2024-09-01T10:55:25.963Z",
+    "product": 6,
+    "author": 4,
+    "rating": 5,
+    "comment": "Great product!",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 5,
+  "fields": {
+    "public_id": "f742a023-c2d6-4689-b1df-9f45eafadef9",
+    "created": "2024-09-01T10:55:25.964Z",
+    "updated": "2024-09-01T10:55:25.964Z",
+    "product": 7,
+    "author": 5,
+    "rating": 4,
+    "comment": "Very good, but a bit pricey.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 6,
+  "fields": {
+    "public_id": "0c424704-f6e9-428a-9de6-bbce43f658a2",
+    "created": "2024-09-01T11:10:30.105Z",
+    "updated": "2024-09-01T11:10:30.105Z",
+    "product": 50,
+    "author": 46,
+    "rating": 4,
+    "comment": "Four crime down former majority. Senior time finish staff product. Summer official no age hand defense.\nWhich break Congress argue foot seek somebody. Would save southern green find know.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 7,
+  "fields": {
+    "public_id": "0d0d41df-cc2b-4757-9ebc-1bdcf18a851f",
+    "created": "2024-09-01T11:10:30.106Z",
+    "updated": "2024-09-01T11:10:30.106Z",
+    "product": 44,
+    "author": 53,
+    "rating": 3,
+    "comment": "President human young hair. Election car drop campaign allow.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 8,
+  "fields": {
+    "public_id": "195786f7-f622-43c4-bf4d-f9dd88fce171",
+    "created": "2024-09-01T11:10:30.107Z",
+    "updated": "2024-09-01T11:10:30.107Z",
+    "product": 19,
+    "author": 54,
+    "rating": 1,
+    "comment": "It argue total seek brother. Along race prevent arrive town argue reason.\nHot raise window school send. Wall would evidence.\nMain rock none purpose. Stay begin size.\nThere bill seek admit.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 9,
+  "fields": {
+    "public_id": "9d181cf1-3469-48ed-9980-82fb8e93cd31",
+    "created": "2024-09-01T11:10:30.107Z",
+    "updated": "2024-09-01T11:10:30.107Z",
+    "product": 17,
+    "author": 12,
+    "rating": 4,
+    "comment": "Myself moment time leg. Say personal military ball of even professor. Watch low son partner scientist describe go really.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 10,
+  "fields": {
+    "public_id": "f342e052-fcd1-4db8-83be-b9ac8411ff98",
+    "created": "2024-09-01T11:10:30.108Z",
+    "updated": "2024-09-01T11:10:30.108Z",
+    "product": 16,
+    "author": 7,
+    "rating": 5,
+    "comment": "Although scientist still table simple. Experience draw newspaper.\nBenefit letter tax investment score include. Accept contain movement particular.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 11,
+  "fields": {
+    "public_id": "00a484a9-bdff-4d88-a33f-04af4dab2d29",
+    "created": "2024-09-01T11:10:30.109Z",
+    "updated": "2024-09-01T11:10:30.109Z",
+    "product": 46,
+    "author": 12,
+    "rating": 2,
+    "comment": "Against man city thus. Dinner sound true indeed mean. Theory good provide site.\nWorker act production into hundred. Meeting run position maintain.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 12,
+  "fields": {
+    "public_id": "dabc667a-06b0-47c9-9f1f-ead641dcb38e",
+    "created": "2024-09-01T11:10:30.110Z",
+    "updated": "2024-09-01T11:10:30.110Z",
+    "product": 54,
+    "author": 38,
+    "rating": 5,
+    "comment": "Election fire either on religious worker. Perform cause present these. Step money group room.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 13,
+  "fields": {
+    "public_id": "314549be-a584-4d33-b19c-79bde1139e58",
+    "created": "2024-09-01T11:10:30.110Z",
+    "updated": "2024-09-01T11:10:30.110Z",
+    "product": 24,
+    "author": 19,
+    "rating": 1,
+    "comment": "He all condition article against. Well southern music include kind.\nDetermine several yeah detail they. Address me one popular.\nDevelopment few relate share. Class inside use thing second.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 14,
+  "fields": {
+    "public_id": "977b03a4-e957-4a13-becf-df7e4d86c849",
+    "created": "2024-09-01T11:10:30.111Z",
+    "updated": "2024-09-01T11:10:30.111Z",
+    "product": 37,
+    "author": 21,
+    "rating": 5,
+    "comment": "Range according memory. Father good everything dream wonder often future.\nMajority power guy along rate mind. Again huge trouble short room movement mind fall. Budget nature car success hold science.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 15,
+  "fields": {
+    "public_id": "6bd0bdd8-e578-4c7d-bcb1-3f9061fc67dd",
+    "created": "2024-09-01T11:10:30.112Z",
+    "updated": "2024-09-01T11:10:30.112Z",
+    "product": 45,
+    "author": 54,
+    "rating": 5,
+    "comment": "Explain series notice increase. Science Mrs tough.\nRecent month today free would. Central case available employee leader several grow. Work tree assume serious fight design. Agent serve term hour.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 16,
+  "fields": {
+    "public_id": "1a734011-6e7f-4f8e-824e-087a43554c69",
+    "created": "2024-09-01T11:10:30.113Z",
+    "updated": "2024-09-01T11:10:30.113Z",
+    "product": 23,
+    "author": 40,
+    "rating": 3,
+    "comment": "Wish those suddenly area. Management five vote finish. She cup choose matter mouth.\nWorld former between nation. Plan today summer chance Mrs blood provide always. Employee organization prove.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 17,
+  "fields": {
+    "public_id": "63e08559-c809-4855-b435-522cce481873",
+    "created": "2024-09-01T11:10:30.113Z",
+    "updated": "2024-09-01T11:10:30.113Z",
+    "product": 21,
+    "author": 40,
+    "rating": 2,
+    "comment": "Area which score western land. Show realize market read culture. Lot themselves family majority cause wife structure.\nWhere light society somebody benefit. Who sell even would fund.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 18,
+  "fields": {
+    "public_id": "a506385e-2ac3-485a-8d08-bac5ad29faab",
+    "created": "2024-09-01T11:10:30.114Z",
+    "updated": "2024-09-01T11:10:30.114Z",
+    "product": 54,
+    "author": 10,
+    "rating": 4,
+    "comment": "Her certain organization music. Ready discover leg certainly nothing voice. Marriage tonight peace according.\nCut town visit decade let woman. Future government technology skill leader another.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 19,
+  "fields": {
+    "public_id": "888bc077-25da-4c1d-9b37-a1faf542d8a8",
+    "created": "2024-09-01T11:10:30.115Z",
+    "updated": "2024-09-01T11:10:30.115Z",
+    "product": 28,
+    "author": 10,
+    "rating": 5,
+    "comment": "Worry west music.\nField word moment realize somebody. Set act task. Discuss continue prepare. Ahead Democrat paper anything.\nNever second pretty bar. School week purpose.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 20,
+  "fields": {
+    "public_id": "1782cc68-642e-4635-a16d-faeb94a79d94",
+    "created": "2024-09-01T11:10:30.116Z",
+    "updated": "2024-09-01T11:10:30.116Z",
+    "product": 49,
+    "author": 7,
+    "rating": 1,
+    "comment": "Room material light receive tend hotel. Spend case understand indeed onto face control court.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 21,
+  "fields": {
+    "public_id": "9201ec6b-35c4-4b16-a613-8ea63ef4a93f",
+    "created": "2024-09-01T11:10:30.116Z",
+    "updated": "2024-09-01T11:10:30.116Z",
+    "product": 46,
+    "author": 25,
+    "rating": 1,
+    "comment": "Happy child compare task a same various time. Cover voice American each year note customer.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 22,
+  "fields": {
+    "public_id": "6333e24d-731d-4d4b-9d72-4d4ddce0d37c",
+    "created": "2024-09-01T11:10:30.117Z",
+    "updated": "2024-09-01T11:10:30.117Z",
+    "product": 54,
+    "author": 24,
+    "rating": 5,
+    "comment": "Religious modern technology. Ago near appear become benefit stay while arm.\nGet wall step doctor until dinner player. Keep best sign this well. Example home describe.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 23,
+  "fields": {
+    "public_id": "fe0fb7c3-4a97-4013-b726-3facc9ea76f1",
+    "created": "2024-09-01T11:10:30.118Z",
+    "updated": "2024-09-01T11:10:30.118Z",
+    "product": 20,
+    "author": 45,
+    "rating": 2,
+    "comment": "Up occur statement method book not. The then manage quite agent.\nPay food to one new never. Certainly something common. Professional way challenge sell. Total vote again.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 24,
+  "fields": {
+    "public_id": "c14702df-79cd-4171-a03f-4b73a2f94b57",
+    "created": "2024-09-01T11:10:30.118Z",
+    "updated": "2024-09-01T11:10:30.118Z",
+    "product": 40,
+    "author": 40,
+    "rating": 1,
+    "comment": "Impact compare matter push suffer. Structure agreement opportunity notice series mean anyone.\nIndeed miss natural matter per color. In bring describe indicate.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 25,
+  "fields": {
+    "public_id": "d7acecbf-7931-4b1e-9c93-774d151f003a",
+    "created": "2024-09-01T11:10:30.119Z",
+    "updated": "2024-09-01T11:10:30.119Z",
+    "product": 23,
+    "author": 29,
+    "rating": 1,
+    "comment": "History board four. Significant indeed feel seat though commercial event.\nWrite serve get. Bit because thousand almost name type. Tend stock exactly resource.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 26,
+  "fields": {
+    "public_id": "f6d2f038-1bb6-4eb5-b290-2f0d9f8df263",
+    "created": "2024-09-01T11:10:30.120Z",
+    "updated": "2024-09-01T11:10:30.120Z",
+    "product": 31,
+    "author": 35,
+    "rating": 1,
+    "comment": "Around throw do a make. Generation use sea. Alone action crime but.\nReady including exist accept eye let radio. First probably choice magazine. Stage purpose although Republican.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 27,
+  "fields": {
+    "public_id": "652e7892-669e-4068-88cd-04db08c70165",
+    "created": "2024-09-01T11:10:30.121Z",
+    "updated": "2024-09-01T11:10:30.121Z",
+    "product": 45,
+    "author": 8,
+    "rating": 5,
+    "comment": "Assume most region toward country. Wall similar already local often here. Bit appear feel.\nBank continue usually participant. Teacher write kind sound. Push bit act computer million small.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 28,
+  "fields": {
+    "public_id": "8cb34bfd-b103-4904-afd9-6f17a79b0dfc",
+    "created": "2024-09-01T11:10:30.121Z",
+    "updated": "2024-09-01T11:10:30.121Z",
+    "product": 10,
+    "author": 55,
+    "rating": 1,
+    "comment": "Stay how have remain theory respond. Community agree structure get year watch. Work service reality how business mouth.\nKid knowledge allow ask. Item kid mother.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 29,
+  "fields": {
+    "public_id": "648045d5-fce9-4cb1-8d99-4ad2a97c5159",
+    "created": "2024-09-01T11:10:30.122Z",
+    "updated": "2024-09-01T11:10:30.122Z",
+    "product": 35,
+    "author": 46,
+    "rating": 3,
+    "comment": "Action career line next. Research decision these culture none away. Bit create thus surface region song price. Sell center message it spring pattern of.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 30,
+  "fields": {
+    "public_id": "c5158685-14ce-4345-a5ec-ee8838c0f22b",
+    "created": "2024-09-01T11:10:30.123Z",
+    "updated": "2024-09-01T11:10:30.123Z",
+    "product": 35,
+    "author": 40,
+    "rating": 5,
+    "comment": "Card with fly face gun couple within. Great enter budget account drive husband drug. Boy myself create again none idea play.\nForeign modern good outside rock from size. Fight red final practice.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 31,
+  "fields": {
+    "public_id": "41f10fb1-04ed-496f-bf14-94655d3c3e78",
+    "created": "2024-09-01T11:10:30.124Z",
+    "updated": "2024-09-01T11:10:30.124Z",
+    "product": 49,
+    "author": 24,
+    "rating": 3,
+    "comment": "Traditional these during his now. Outside him item once. Up add just around team life help.\nMagazine once article hot idea cell. Like himself identify maintain.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 32,
+  "fields": {
+    "public_id": "5ea5c409-9a97-41b5-9aaf-3d6ac5735558",
+    "created": "2024-09-01T11:10:30.124Z",
+    "updated": "2024-09-01T11:10:30.124Z",
+    "product": 24,
+    "author": 30,
+    "rating": 3,
+    "comment": "Conference between town positive situation. Recognize would relationship information. Participant paper perhaps stand option court.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 33,
+  "fields": {
+    "public_id": "35e99ed6-1979-493b-bd60-06bccb6431e9",
+    "created": "2024-09-01T11:10:30.125Z",
+    "updated": "2024-09-01T11:10:30.125Z",
+    "product": 8,
+    "author": 42,
+    "rating": 5,
+    "comment": "Sing skin strategy hit pick great easy. Everyone involve large manager security pressure keep. Life of writer.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 34,
+  "fields": {
+    "public_id": "a8d8c3fa-4b5d-4850-a1c9-ae5a3cb06400",
+    "created": "2024-09-01T11:10:30.126Z",
+    "updated": "2024-09-01T11:10:30.126Z",
+    "product": 29,
+    "author": 39,
+    "rating": 2,
+    "comment": "Stand environmental data wide light ahead.\nFeel property mention civil.\nGun leader deal sound also society easy. After discussion data.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 35,
+  "fields": {
+    "public_id": "347cd443-04e4-488e-9dea-f7ff9bb0e27d",
+    "created": "2024-09-01T11:10:30.126Z",
+    "updated": "2024-09-01T11:10:30.126Z",
+    "product": 25,
+    "author": 15,
+    "rating": 4,
+    "comment": "View create particularly.\nThreat eight kid human. Help red difficult task generation become pattern. Opportunity customer talk if.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 36,
+  "fields": {
+    "public_id": "2018f5a0-c476-4167-a129-cf8f735f5b28",
+    "created": "2024-09-01T11:10:30.127Z",
+    "updated": "2024-09-01T11:10:30.127Z",
+    "product": 26,
+    "author": 43,
+    "rating": 2,
+    "comment": "International treatment stop there certain art defense now. Crime plant lot. Either region new everybody represent trade already.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 37,
+  "fields": {
+    "public_id": "ebdd315f-0f49-4da4-a16a-40822a4f1b25",
+    "created": "2024-09-01T11:10:30.128Z",
+    "updated": "2024-09-01T11:10:30.128Z",
+    "product": 30,
+    "author": 37,
+    "rating": 5,
+    "comment": "Point all kitchen work. Detail spend situation whose through boy the. Left easy official subject maintain product special.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 38,
+  "fields": {
+    "public_id": "190ca0fe-6663-408d-b631-6d252dca611a",
+    "created": "2024-09-01T11:10:30.129Z",
+    "updated": "2024-09-01T11:10:30.129Z",
+    "product": 18,
+    "author": 34,
+    "rating": 5,
+    "comment": "Activity economic check style. Much natural produce collection fact long nor. South development kitchen environment human piece make.\nSee view student. More never perhaps age father without.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 39,
+  "fields": {
+    "public_id": "e5c8b016-4931-49dd-824e-d375cb742252",
+    "created": "2024-09-01T11:10:30.129Z",
+    "updated": "2024-09-01T11:10:30.130Z",
+    "product": 54,
+    "author": 46,
+    "rating": 3,
+    "comment": "Name eat us author view. Simply relationship face buy him budget newspaper.\nAble understand among agree wind clear message. Tax important be back state. Course whatever short relationship safe can.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 40,
+  "fields": {
+    "public_id": "85d379d9-1ac4-4268-bcf5-f249439003fa",
+    "created": "2024-09-01T11:10:30.130Z",
+    "updated": "2024-09-01T11:10:30.130Z",
+    "product": 11,
+    "author": 53,
+    "rating": 2,
+    "comment": "Week return mother throw create. Amount too catch serve.\nSimple section affect. Institution forward Congress positive right major role. Give employee conference four color whom.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 41,
+  "fields": {
+    "public_id": "47df5384-3ffb-4e81-be10-049bdbe7b311",
+    "created": "2024-09-01T11:10:30.131Z",
+    "updated": "2024-09-01T11:10:30.131Z",
+    "product": 23,
+    "author": 36,
+    "rating": 1,
+    "comment": "Weight however level issue three building. Care various run truth plan.\nLast apply stage. Investment officer medical camera.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 42,
+  "fields": {
+    "public_id": "f688a378-c80b-4723-9813-52ae520f7d85",
+    "created": "2024-09-01T11:10:30.132Z",
+    "updated": "2024-09-01T11:10:30.132Z",
+    "product": 52,
+    "author": 30,
+    "rating": 4,
+    "comment": "Civil process civil somebody. Action describe station.\nCould soon continue maybe. Begin could thank boy trade natural. Throw organization onto right side industry language.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 43,
+  "fields": {
+    "public_id": "ae03c340-c283-4270-bd67-efcf854ceaab",
+    "created": "2024-09-01T11:10:30.132Z",
+    "updated": "2024-09-01T11:10:30.132Z",
+    "product": 38,
+    "author": 39,
+    "rating": 3,
+    "comment": "Particular receive like detail. Deal or must attorney until bag. Office country skill cup machine.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 44,
+  "fields": {
+    "public_id": "0c5ae4c4-c3a3-4c37-a088-5af785776091",
+    "created": "2024-09-01T11:10:30.133Z",
+    "updated": "2024-09-01T11:10:30.133Z",
+    "product": 32,
+    "author": 44,
+    "rating": 5,
+    "comment": "Real management stay me game also. Many sometimes court show court half instead.\nAlong argue either consider watch sometimes eat. End because become music performance this generation.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 45,
+  "fields": {
+    "public_id": "8e26c3c3-2903-48a0-852e-2d9d0c245d8d",
+    "created": "2024-09-01T11:10:30.134Z",
+    "updated": "2024-09-01T11:10:30.134Z",
+    "product": 24,
+    "author": 51,
+    "rating": 1,
+    "comment": "Song ball change. Cut our within language. The local us investment will.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 46,
+  "fields": {
+    "public_id": "7c0ee8bf-239c-4ad9-b17d-62ea6fc10bf8",
+    "created": "2024-09-01T11:10:30.135Z",
+    "updated": "2024-09-01T11:10:30.135Z",
+    "product": 24,
+    "author": 28,
+    "rating": 4,
+    "comment": "However energy carry go artist course. Bed stand lawyer everything small there news. Job much some experience move work.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 47,
+  "fields": {
+    "public_id": "184334d5-062f-48d3-a7c6-27dc759e0005",
+    "created": "2024-09-01T11:10:30.135Z",
+    "updated": "2024-09-01T11:10:30.135Z",
+    "product": 37,
+    "author": 26,
+    "rating": 2,
+    "comment": "Buy huge page either majority. Her back could south.\nSupport company maybe town. Across well range remain.\nRead here myself evening every individual note.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 48,
+  "fields": {
+    "public_id": "e507fbd6-109a-4243-8898-c7106cb5bd94",
+    "created": "2024-09-01T11:10:30.136Z",
+    "updated": "2024-09-01T11:10:30.136Z",
+    "product": 45,
+    "author": 39,
+    "rating": 5,
+    "comment": "Water music give onto. Develop time control than story similar possible.\nRecent score paper late sort. Serve culture available action president.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 49,
+  "fields": {
+    "public_id": "1ce0d7fe-297a-4edf-85f5-d97e74f58a1b",
+    "created": "2024-09-01T11:10:30.137Z",
+    "updated": "2024-09-01T11:10:30.137Z",
+    "product": 9,
+    "author": 55,
+    "rating": 1,
+    "comment": "Move eat car before large soldier. No note vote.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 50,
+  "fields": {
+    "public_id": "5d27543d-23ca-45f6-af0c-ccc4a47d7ed2",
+    "created": "2024-09-01T11:10:30.138Z",
+    "updated": "2024-09-01T11:10:30.138Z",
+    "product": 15,
+    "author": 53,
+    "rating": 1,
+    "comment": "Republican up admit official. Media Republican whom century water throughout make along.\nBetween thousand offer. Improve maintain clearly north system born.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 51,
+  "fields": {
+    "public_id": "960897f1-3230-4ea7-9ce6-96086cbead07",
+    "created": "2024-09-01T11:10:30.139Z",
+    "updated": "2024-09-01T11:10:30.139Z",
+    "product": 45,
+    "author": 31,
+    "rating": 3,
+    "comment": "Age physical send southern fast Mrs science. Magazine others image approach exist push.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 52,
+  "fields": {
+    "public_id": "03a441cd-1aa1-4dd9-82e4-33be7118fce8",
+    "created": "2024-09-01T11:10:30.140Z",
+    "updated": "2024-09-01T11:10:30.140Z",
+    "product": 16,
+    "author": 49,
+    "rating": 2,
+    "comment": "Sign board challenge might drop weight.\nFar time what oil. Traditional director of rise could physical. In some agency state at.\nTend direction item there. Alone course half blood on.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 53,
+  "fields": {
+    "public_id": "840227b8-2e1c-4bcf-bee4-77cf9790e79c",
+    "created": "2024-09-01T11:10:30.141Z",
+    "updated": "2024-09-01T11:10:30.141Z",
+    "product": 38,
+    "author": 50,
+    "rating": 3,
+    "comment": "Improve lawyer leg several a community reach.\nMy vote only explain situation. Newspaper college election help maintain magazine within guess.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 54,
+  "fields": {
+    "public_id": "bfcc06f2-8dc7-4d4a-bafc-134f392bce1c",
+    "created": "2024-09-01T11:10:30.141Z",
+    "updated": "2024-09-01T11:10:30.141Z",
+    "product": 51,
+    "author": 39,
+    "rating": 5,
+    "comment": "Response time agreement. State fight sound.\nDark meet forget receive. Wide appear live at six. Condition until which trip smile.",
+    "edited": false
+  }
+},
+{
+  "model": "core_reviews.review",
+  "pk": 55,
+  "fields": {
+    "public_id": "80db4a65-eccd-41c3-9ad2-bee5193dce0a",
+    "created": "2024-09-01T11:10:30.142Z",
+    "updated": "2024-09-01T11:10:30.142Z",
+    "product": 57,
+    "author": 31,
+    "rating": 1,
+    "comment": "Bed work world those financial strong study. Story information minute year.\nNever protect take recent develop. Thus region others. Exactly hand interesting that serve not.",
+    "edited": false
+  }
+}
+]

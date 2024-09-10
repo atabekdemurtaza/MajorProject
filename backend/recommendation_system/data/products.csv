@@ -1,0 +1,93 @@
+model,pk,fields.public_id,fields.created,fields.updated,fields.author,fields.name,fields.description,fields.price,fields.edited
+core_product.product,1,03f527a4-14d9-4598-800b-003c1c9f20fb,2024-08-30T14:19:07.349Z,2024-08-30T14:19:07.349Z,1,The old iphone 10 pro max,The new era begins and stay alwasy new,770.00,False
+core_product.product,2,530bbd82-c106-4e6d-85fa-929ef06d5f9d,2024-08-30T14:24:23.492Z,2024-08-31T11:41:21.677Z,2,Huawei,The best cellphone in China,200.00,True
+core_product.product,3,fda09111-33fc-43e1-9b49-79064224e090,2024-08-30T14:24:54.678Z,2024-08-30T14:24:54.678Z,2,Samsung Galaxy s23 Ultra,The new era begins and stay alwasy new,770.00,False
+core_product.product,4,49d405cb-33cd-4edd-b899-80b3335af7c7,2024-08-31T11:38:19.492Z,2024-08-31T11:38:19.492Z,2,Samsung Galaxy s22 Ultra,The new era begins and stay alwasy new,770.00,False
+core_product.product,5,df20f553-9a6e-467d-bf5d-5882ab05ac4a,2024-09-01T10:31:38.495Z,2024-09-01T10:31:38.495Z,3,Lenovo Thinkpad X1 Carbon 9th,The new laptop era begins stay with us,1200.00,False
+core_product.product,6,3e2892a7-9e00-4fb6-a099-0858c73b1e05,2024-09-01T10:55:25.961Z,2024-09-01T10:55:25.961Z,4,Asus Ryzen X,Gamer laptop,1099.99,False
+core_product.product,7,fb45efd9-e689-4013-8b1f-31ffde6b0da0,2024-09-01T10:55:25.962Z,2024-09-01T10:55:25.962Z,5,Macbook Pro,The coolest laptop ever with metal skin,1599.99,False
+core_product.product,8,18ae4bf7-67a7-497e-aba1-f3167eeab7a9,2024-09-01T11:10:30.061Z,2024-09-01T11:10:30.061Z,29,Bridget Vasquez ago,"Cup sell within how. Meeting single clearly talk need rule consider.
+Reality set material most scene each. Life artist month man development help life. Detail senior executive best free.",55.99,False
+core_product.product,9,8b6fcf50-45c8-4348-be93-011318eab5f3,2024-09-01T11:10:30.063Z,2024-09-01T11:10:30.063Z,8,Frederick Johnson born,"Him decade church move level account.
+Hot allow goal hit him.
+Audience size soon worker plant. Floor animal somebody stuff. Program out owner way across.",40.21,False
+core_product.product,10,6e8c1dba-73d3-4cd7-8e16-03bbacd15777,2024-09-01T11:10:30.064Z,2024-09-01T11:10:30.064Z,52,Jessica Lopez DVM talk,Dog nice town forget operation. Than list stop not too. Hundred technology right specific sport.,45.46,False
+core_product.product,11,ab6ef233-d371-4bca-ad67-201891c82a4b,2024-09-01T11:10:30.065Z,2024-09-01T11:10:30.065Z,7,Andrew Howell tree,"Major interesting feel skin throw tough. Simply professor rate another need reduce dream article.
+Parent our body. Seven improve human you very.
+Parent rise heart state. Because hit operation option.",41.40,False
+core_product.product,12,3a9b824c-e81b-44cb-93e0-d6d1bf571383,2024-09-01T11:10:30.066Z,2024-09-01T11:10:30.066Z,53,Andrea Ford catch,Would others factor husband. Policy week town physical rise improve question. System wind policy price.,70.68,False
+core_product.product,13,71fbbde7-35c7-4edb-ba05-83b8028992dc,2024-09-01T11:10:30.067Z,2024-09-01T11:10:30.067Z,29,Brian Levy may,"Court go meet. Scene become understand day right need according east. Threat region must effect inside answer.
+Move whether different meet. Beyond public item vote become.",88.11,False
+core_product.product,14,6036a272-db78-470d-9c04-f7a208f22ceb,2024-09-01T11:10:30.068Z,2024-09-01T11:10:30.068Z,31,Hannah Cooper when,In responsibility fear family. Likely offer trial bank Mrs order. Energy rule small officer child.,85.67,False
+core_product.product,15,1e83ef2e-f6df-4a3e-9c93-40855f1bfa4b,2024-09-01T11:10:30.070Z,2024-09-01T11:10:30.070Z,46,Latoya Blair box,Present next market area important dark bring. Laugh measure weight effort face although. Statement sea behavior mother offer worker build.,61.16,False
+core_product.product,16,95acb43e-a456-47d3-b119-fd7cc8e08108,2024-09-01T11:10:30.071Z,2024-09-01T11:10:30.071Z,44,Amy Humphrey because,"Sense mention but themselves tree along. Realize against old perform.
+Eat skill special who west. Price night which good purpose under degree. Republican table story organization red thing.",97.25,False
+core_product.product,17,64fdbcd9-8ac8-42ce-b988-9c324a685b30,2024-09-01T11:10:30.071Z,2024-09-01T11:10:30.071Z,38,Laura Davis ability,"Back describe throughout area inside pass prepare. City decide PM ahead.
+Need member still all project position exactly. Under art director side ok listen affect. Who everyone six short.",90.77,False
+core_product.product,18,ccae521a-cd41-4874-b088-622e11655472,2024-09-01T11:10:30.072Z,2024-09-01T11:10:30.072Z,12,Samantha Cook year,Thousand lay toward support ready meet. Least eat recently material. Member choice stock each however. Cut do present.,84.72,False
+core_product.product,19,929c4793-7202-4f10-a0d5-c5b8b74f7974,2024-09-01T11:10:30.073Z,2024-09-01T11:10:30.073Z,49,Joseph Ward letter,"Direction tend growth far. Thing television meet experience pattern tend her. Role push represent cause.
+Almost about player use herself like. Although however final material enjoy. Old charge water.",40.17,False
+core_product.product,20,b25cf87a-e37a-40b8-863b-e5da794925d0,2024-09-01T11:10:30.074Z,2024-09-01T11:10:30.074Z,7,Deborah Smith type,"See young whole feeling artist. They mission feeling large current region room hold.
+Tax ago continue law. Single manager national. Ready pass student evening billion truth themselves surface.",88.87,False
+core_product.product,21,0a0eba52-784a-4cbe-bf82-bb6f1719ce22,2024-09-01T11:10:30.075Z,2024-09-01T11:10:30.075Z,36,Michael Dudley station,"College than field. Somebody also foreign top.
+Business business claim city might run. Fear federal education someone oil himself note.",24.48,False
+core_product.product,22,fd51e2c4-a6ba-45fc-a252-7a9a42946370,2024-09-01T11:10:30.076Z,2024-09-01T11:10:30.076Z,36,Alexis Walker this,"Local small last deal.
+Smile summer state western care size. Least dinner painting beat create manager.
+Visit every grow. Indicate product budget security how would raise.",18.51,False
+core_product.product,23,4b8b8fa9-608c-4aeb-b7d5-fe57447edb04,2024-09-01T11:10:30.076Z,2024-09-01T11:10:30.076Z,35,Dawn Rodriguez door,"Watch without bring third long also. Eat board win pattern plan.
+Decade institution action recognize often.
+Yeah realize artist general degree story. Because truth institution yet.",50.32,False
+core_product.product,24,ec12d19c-278b-47a3-bf0e-45bed267e713,2024-09-01T11:10:30.077Z,2024-09-01T11:10:30.077Z,37,Shawn Cunningham reach,"Speech various no model.
+Standard meet computer final often. View health clear number environment cell enough. Mean whole shoulder others need page art ever.",62.94,False
+core_product.product,25,38b12ed8-625b-45d5-8c0f-fb4ce618f5ac,2024-09-01T11:10:30.078Z,2024-09-01T11:10:30.078Z,47,Theresa Valentine authority,Partner will first wear on high stuff. Black pressure week take others your. Home change character brother newspaper life cover technology.,66.78,False
+core_product.product,26,37b002e1-a8b5-41fe-8ac9-8724bef87434,2024-09-01T11:10:30.079Z,2024-09-01T11:10:30.079Z,17,Chad Chang kind,"Moment development organization language law fear. Effort prevent hard.
+War trade small like role each understand change. Support song else cover parent firm choice. How door same sing role for.",34.05,False
+core_product.product,27,28119609-36f4-4e64-ae33-fee2bdcad177,2024-09-01T11:10:30.080Z,2024-09-01T11:10:30.080Z,13,Kathy Peterson use,"Lose message degree future teacher only. Teacher describe home cut. Task could ten project.
+Machine beyond talk current.",21.34,False
+core_product.product,28,8ec6c780-aa7f-4e8e-85bf-af8502e970d2,2024-09-01T11:10:30.081Z,2024-09-01T11:10:30.081Z,31,David Curtis DDS night,"Hot spend mention us television today. Force base quality many with happen. Hand raise democratic in.
+Buy focus particular war similar. Place wind civil how garden. With conference child federal.",85.57,False
+core_product.product,29,178bc50e-9e51-47e1-bc1b-9765ac204116,2024-09-01T11:10:30.082Z,2024-09-01T11:10:30.082Z,28,Brandon Taylor pick,"Sense small item maybe pressure year government option. Stop memory concern sign whatever hope model later. Fine set table ahead now.
+Style total individual remember less.",42.55,False
+core_product.product,30,bb439249-5896-4638-b122-de352924c286,2024-09-01T11:10:30.082Z,2024-09-01T11:10:30.082Z,45,Eric Davis collection,Discuss lay American on mission financial stage. Development yet new including impact modern. Base form teacher reduce sign.,57.28,False
+core_product.product,31,b69b9d68-ec11-4089-97c5-00609e6bfe48,2024-09-01T11:10:30.083Z,2024-09-01T11:10:30.083Z,14,Angela Carney economy,"Check candidate positive. Provide raise current condition production page account.
+Level within main and. Shoulder open book resource down exactly scene.",24.86,False
+core_product.product,32,cb9666e0-f478-487a-9537-c0dfdf9564f0,2024-09-01T11:10:30.084Z,2024-09-01T11:10:30.084Z,7,Gina Ware course,"More practice executive only foreign. Federal pressure rise worker public. Relationship very increase affect member return.
+I despite society side machine want enjoy that.",16.50,False
+core_product.product,33,8f3842a4-96f5-4e45-94f4-e4e0581df0e1,2024-09-01T11:10:30.085Z,2024-09-01T11:10:30.085Z,36,Mark Romero Congress,Community none address tonight high. Inside glass her land around late charge safe. Table its article bad prevent. Policy attack until total deep yes.,47.65,False
+core_product.product,34,4b7766d8-b25b-43d9-9d9f-f79dc21831e4,2024-09-01T11:10:30.086Z,2024-09-01T11:10:30.086Z,31,Diana Andrade hour,Man street hour natural. This seat blood out win size. Human character sea character onto ok. Choice senior also figure however sister store between.,21.19,False
+core_product.product,35,16abbc89-639b-49d6-ac03-728d457ca24e,2024-09-01T11:10:30.087Z,2024-09-01T11:10:30.087Z,51,Jessica Patel wind,Nearly add important treatment fund brother involve. Through officer include sister worker court. Set run side feel raise statement.,23.63,False
+core_product.product,36,b48a6956-8db0-47c8-a5b8-eb1aba23040f,2024-09-01T11:10:30.088Z,2024-09-01T11:10:30.088Z,48,Meghan Morales really,Best apply action family better. Plan claim mission day. Analysis girl person middle range help.,21.12,False
+core_product.product,37,2f9bd511-4893-441a-aeeb-49a9cafc1571,2024-09-01T11:10:30.088Z,2024-09-01T11:10:30.088Z,43,Stacy Vazquez billion,Defense cold choice investment raise little. Him really sometimes market term away official ahead.,37.95,False
+core_product.product,38,10ff97d4-1b65-49f1-aed4-950a966eb991,2024-09-01T11:10:30.089Z,2024-09-01T11:10:30.089Z,17,Richard Robinson total,"This believe central act effect. Keep design order food television data.
+Understand hear relate product. Go glass during. Dog lay sit human decision run in.",75.93,False
+core_product.product,39,56dfb532-128a-41f4-b6ac-e51d8279fe68,2024-09-01T11:10:30.090Z,2024-09-01T11:10:30.090Z,43,Peter Smith stay,"Agent quality push suffer interest middle too. Foot explain student sea serious change fact.
+Interview civil give value part. Food side school within responsibility word six glass.",33.08,False
+core_product.product,40,b776f71f-2392-49be-b49e-d923d633cb5b,2024-09-01T11:10:30.091Z,2024-09-01T11:10:30.091Z,16,Tara Fleming father,Stage trouble might move. Memory management place your building nor long. Meet fill everybody lot maybe game pay.,26.30,False
+core_product.product,41,9f67b697-6216-4e54-bd28-ba2513acf926,2024-09-01T11:10:30.092Z,2024-09-01T11:10:30.092Z,54,Calvin Barnett identify,Thus early green executive. School tonight question together natural collection. Huge treatment future old several hair.,56.35,False
+core_product.product,42,905dacf4-7092-420c-b7be-55aced83847c,2024-09-01T11:10:30.092Z,2024-09-01T11:10:30.092Z,24,Crystal Pacheco person,His yard your consumer we. Whom season by plan behind help. Standard force establish environmental administration Mr opportunity.,86.32,False
+core_product.product,43,19eea111-fe84-4c9b-99e4-6881d7c42f6f,2024-09-01T11:10:30.093Z,2024-09-01T11:10:30.093Z,32,Keith Bartlett something,Toward large friend item surface point. Friend senior house sure artist grow. Local information wrong all fight industry condition.,77.39,False
+core_product.product,44,7ab0ac17-e672-4bb5-85f0-99259f6c3cfe,2024-09-01T11:10:30.094Z,2024-09-01T11:10:30.094Z,33,Timothy Miles economic,Investment fine arrive art mother watch. Learn interest student important hotel style. Main leg step.,95.61,False
+core_product.product,45,2e24b04f-4ab8-4358-b2d2-48db17284199,2024-09-01T11:10:30.094Z,2024-09-01T11:10:30.094Z,17,Micheal Hill special,"Life explain far coach every sort direction reason. About real become someone.
+Car ball art far book.
+Start fly pull whole. Painting sea defense thousand personal authority require.",74.99,False
+core_product.product,46,113ee99a-a962-448d-9512-40b52daab588,2024-09-01T11:10:30.095Z,2024-09-01T11:10:30.095Z,20,Desiree Webb begin,"Worker family scene long Mr and degree.
+Challenge result check throughout at on. Machine agreement name thus tend.",76.25,False
+core_product.product,47,bbe8fbab-b325-43c1-a938-c842ee153843,2024-09-01T11:10:30.096Z,2024-09-01T11:10:30.096Z,44,Craig Taylor discuss,"It nothing information side professor cover material. Hair other nice. Ahead list politics site.
+General industry maybe miss game time board. Else notice fall.",92.60,False
+core_product.product,48,0e5fcebf-7fc6-4a22-ab1e-d6ee7dbe3bcf,2024-09-01T11:10:30.097Z,2024-09-01T11:10:30.097Z,37,Stephanie Maddox success,"Whole soon up group. Father Congress eight media beautiful rise yard.
+Option second age rate. All court line must same next for.",70.57,False
+core_product.product,49,4a178809-3cbf-4e9c-813c-8d726d387be4,2024-09-01T11:10:30.097Z,2024-09-01T11:10:30.097Z,15,Steven Hebert agree,"Politics ready lawyer feel movement TV pick. New sound security five require task.
+Building more investment. General treat friend front end project away treatment.",22.85,False
+core_product.product,50,66f45996-222d-4030-8b50-9d976a3b4cb2,2024-09-01T11:10:30.098Z,2024-09-01T11:10:30.098Z,30,Helen Sims serve,Line total leave section example protect. Long color people thought during simple. Information employee according never raise require after other. Agency management pretty ball early draw player.,69.99,False
+core_product.product,51,01746218-dddc-4fe7-b4bc-889f37688d52,2024-09-01T11:10:30.099Z,2024-09-01T11:10:30.099Z,18,Michael Gilbert difficult,Data just treatment cup cup democratic. Grow consider trouble candidate subject significant. Fire bill by book page which.,53.49,False
+core_product.product,52,b04e87fe-2a53-43ed-9ff2-a5d485bd2e8d,2024-09-01T11:10:30.100Z,2024-09-01T11:10:30.100Z,23,Jesus Schultz knowledge,"Provide themselves hit American final similar various. Husband economic pass government employee.
+Eye art institution offer arm maybe nature.",57.90,False
+core_product.product,53,5acc01a0-bda5-424a-8822-1ce53926fabb,2024-09-01T11:10:30.101Z,2024-09-01T11:10:30.101Z,17,Christopher Allen little,"Few as stock defense.
+Article forward thank necessary. Six condition great garden generation article. Blood occur game.",61.36,False
+core_product.product,54,4eebfce4-d0a8-4fe6-9646-97ab99c353cc,2024-09-01T11:10:30.101Z,2024-09-01T11:10:30.101Z,17,Frances Roy ball,Lay all draw agree strong follow along. Hold walk take mention also national. These us work cup scene experience.,21.30,False
+core_product.product,55,996dacb6-19fb-4242-b87a-5654801600eb,2024-09-01T11:10:30.102Z,2024-09-01T11:10:30.102Z,54,Jocelyn Wilson either,"Amount usually garden house though. Should head source hundred. Ok especially go modern.
+Back according kid how behind laugh. Prepare sport mean cover sport hope agency hear.",70.31,False
+core_product.product,56,66e88cbd-4b84-45ab-adf5-72b073441301,2024-09-01T11:10:30.103Z,2024-09-01T11:10:30.103Z,42,Carol Arellano stage,"Five bill popular with task ever west pull.
+Political beat hold form make. Open energy somebody real government. Letter future those rather organization even food.",24.56,False
+core_product.product,57,1fc61eda-2417-4dfc-aa72-ee7e14c0f0cc,2024-09-01T11:10:30.104Z,2024-09-01T11:10:30.104Z,18,Daniel George likely,"Her eye road class next career open. Eight remember whatever pick.
+Success option member find price recent. Job similar once final enough.",34.40,False

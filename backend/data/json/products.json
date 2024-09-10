@@ -1,0 +1,800 @@
+[
+{
+  "model": "core_product.product",
+  "pk": 1,
+  "fields": {
+    "public_id": "03f527a4-14d9-4598-800b-003c1c9f20fb",
+    "created": "2024-08-30T14:19:07.349Z",
+    "updated": "2024-08-30T14:19:07.349Z",
+    "author": 1,
+    "name": "The old iphone 10 pro max",
+    "description": "The new era begins and stay alwasy new",
+    "price": "770.00",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 2,
+  "fields": {
+    "public_id": "530bbd82-c106-4e6d-85fa-929ef06d5f9d",
+    "created": "2024-08-30T14:24:23.492Z",
+    "updated": "2024-08-31T11:41:21.677Z",
+    "author": 2,
+    "name": "Huawei",
+    "description": "The best cellphone in China",
+    "price": "200.00",
+    "edited": true
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 3,
+  "fields": {
+    "public_id": "fda09111-33fc-43e1-9b49-79064224e090",
+    "created": "2024-08-30T14:24:54.678Z",
+    "updated": "2024-08-30T14:24:54.678Z",
+    "author": 2,
+    "name": "Samsung Galaxy s23 Ultra",
+    "description": "The new era begins and stay alwasy new",
+    "price": "770.00",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 4,
+  "fields": {
+    "public_id": "49d405cb-33cd-4edd-b899-80b3335af7c7",
+    "created": "2024-08-31T11:38:19.492Z",
+    "updated": "2024-08-31T11:38:19.492Z",
+    "author": 2,
+    "name": "Samsung Galaxy s22 Ultra",
+    "description": "The new era begins and stay alwasy new",
+    "price": "770.00",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 5,
+  "fields": {
+    "public_id": "df20f553-9a6e-467d-bf5d-5882ab05ac4a",
+    "created": "2024-09-01T10:31:38.495Z",
+    "updated": "2024-09-01T10:31:38.495Z",
+    "author": 3,
+    "name": "Lenovo Thinkpad X1 Carbon 9th",
+    "description": "The new laptop era begins stay with us",
+    "price": "1200.00",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 6,
+  "fields": {
+    "public_id": "3e2892a7-9e00-4fb6-a099-0858c73b1e05",
+    "created": "2024-09-01T10:55:25.961Z",
+    "updated": "2024-09-01T10:55:25.961Z",
+    "author": 4,
+    "name": "Asus Ryzen X",
+    "description": "Gamer laptop",
+    "price": "1099.99",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 7,
+  "fields": {
+    "public_id": "fb45efd9-e689-4013-8b1f-31ffde6b0da0",
+    "created": "2024-09-01T10:55:25.962Z",
+    "updated": "2024-09-01T10:55:25.962Z",
+    "author": 5,
+    "name": "Macbook Pro",
+    "description": "The coolest laptop ever with metal skin",
+    "price": "1599.99",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 8,
+  "fields": {
+    "public_id": "18ae4bf7-67a7-497e-aba1-f3167eeab7a9",
+    "created": "2024-09-01T11:10:30.061Z",
+    "updated": "2024-09-01T11:10:30.061Z",
+    "author": 29,
+    "name": "Bridget Vasquez ago",
+    "description": "Cup sell within how. Meeting single clearly talk need rule consider.\nReality set material most scene each. Life artist month man development help life. Detail senior executive best free.",
+    "price": "55.99",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 9,
+  "fields": {
+    "public_id": "8b6fcf50-45c8-4348-be93-011318eab5f3",
+    "created": "2024-09-01T11:10:30.063Z",
+    "updated": "2024-09-01T11:10:30.063Z",
+    "author": 8,
+    "name": "Frederick Johnson born",
+    "description": "Him decade church move level account.\nHot allow goal hit him.\nAudience size soon worker plant. Floor animal somebody stuff. Program out owner way across.",
+    "price": "40.21",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 10,
+  "fields": {
+    "public_id": "6e8c1dba-73d3-4cd7-8e16-03bbacd15777",
+    "created": "2024-09-01T11:10:30.064Z",
+    "updated": "2024-09-01T11:10:30.064Z",
+    "author": 52,
+    "name": "Jessica Lopez DVM talk",
+    "description": "Dog nice town forget operation. Than list stop not too. Hundred technology right specific sport.",
+    "price": "45.46",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 11,
+  "fields": {
+    "public_id": "ab6ef233-d371-4bca-ad67-201891c82a4b",
+    "created": "2024-09-01T11:10:30.065Z",
+    "updated": "2024-09-01T11:10:30.065Z",
+    "author": 7,
+    "name": "Andrew Howell tree",
+    "description": "Major interesting feel skin throw tough. Simply professor rate another need reduce dream article.\nParent our body. Seven improve human you very.\nParent rise heart state. Because hit operation option.",
+    "price": "41.40",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 12,
+  "fields": {
+    "public_id": "3a9b824c-e81b-44cb-93e0-d6d1bf571383",
+    "created": "2024-09-01T11:10:30.066Z",
+    "updated": "2024-09-01T11:10:30.066Z",
+    "author": 53,
+    "name": "Andrea Ford catch",
+    "description": "Would others factor husband. Policy week town physical rise improve question. System wind policy price.",
+    "price": "70.68",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 13,
+  "fields": {
+    "public_id": "71fbbde7-35c7-4edb-ba05-83b8028992dc",
+    "created": "2024-09-01T11:10:30.067Z",
+    "updated": "2024-09-01T11:10:30.067Z",
+    "author": 29,
+    "name": "Brian Levy may",
+    "description": "Court go meet. Scene become understand day right need according east. Threat region must effect inside answer.\nMove whether different meet. Beyond public item vote become.",
+    "price": "88.11",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 14,
+  "fields": {
+    "public_id": "6036a272-db78-470d-9c04-f7a208f22ceb",
+    "created": "2024-09-01T11:10:30.068Z",
+    "updated": "2024-09-01T11:10:30.068Z",
+    "author": 31,
+    "name": "Hannah Cooper when",
+    "description": "In responsibility fear family. Likely offer trial bank Mrs order. Energy rule small officer child.",
+    "price": "85.67",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 15,
+  "fields": {
+    "public_id": "1e83ef2e-f6df-4a3e-9c93-40855f1bfa4b",
+    "created": "2024-09-01T11:10:30.070Z",
+    "updated": "2024-09-01T11:10:30.070Z",
+    "author": 46,
+    "name": "Latoya Blair box",
+    "description": "Present next market area important dark bring. Laugh measure weight effort face although. Statement sea behavior mother offer worker build.",
+    "price": "61.16",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 16,
+  "fields": {
+    "public_id": "95acb43e-a456-47d3-b119-fd7cc8e08108",
+    "created": "2024-09-01T11:10:30.071Z",
+    "updated": "2024-09-01T11:10:30.071Z",
+    "author": 44,
+    "name": "Amy Humphrey because",
+    "description": "Sense mention but themselves tree along. Realize against old perform.\nEat skill special who west. Price night which good purpose under degree. Republican table story organization red thing.",
+    "price": "97.25",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 17,
+  "fields": {
+    "public_id": "64fdbcd9-8ac8-42ce-b988-9c324a685b30",
+    "created": "2024-09-01T11:10:30.071Z",
+    "updated": "2024-09-01T11:10:30.071Z",
+    "author": 38,
+    "name": "Laura Davis ability",
+    "description": "Back describe throughout area inside pass prepare. City decide PM ahead.\nNeed member still all project position exactly. Under art director side ok listen affect. Who everyone six short.",
+    "price": "90.77",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 18,
+  "fields": {
+    "public_id": "ccae521a-cd41-4874-b088-622e11655472",
+    "created": "2024-09-01T11:10:30.072Z",
+    "updated": "2024-09-01T11:10:30.072Z",
+    "author": 12,
+    "name": "Samantha Cook year",
+    "description": "Thousand lay toward support ready meet. Least eat recently material. Member choice stock each however. Cut do present.",
+    "price": "84.72",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 19,
+  "fields": {
+    "public_id": "929c4793-7202-4f10-a0d5-c5b8b74f7974",
+    "created": "2024-09-01T11:10:30.073Z",
+    "updated": "2024-09-01T11:10:30.073Z",
+    "author": 49,
+    "name": "Joseph Ward letter",
+    "description": "Direction tend growth far. Thing television meet experience pattern tend her. Role push represent cause.\nAlmost about player use herself like. Although however final material enjoy. Old charge water.",
+    "price": "40.17",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 20,
+  "fields": {
+    "public_id": "b25cf87a-e37a-40b8-863b-e5da794925d0",
+    "created": "2024-09-01T11:10:30.074Z",
+    "updated": "2024-09-01T11:10:30.074Z",
+    "author": 7,
+    "name": "Deborah Smith type",
+    "description": "See young whole feeling artist. They mission feeling large current region room hold.\nTax ago continue law. Single manager national. Ready pass student evening billion truth themselves surface.",
+    "price": "88.87",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 21,
+  "fields": {
+    "public_id": "0a0eba52-784a-4cbe-bf82-bb6f1719ce22",
+    "created": "2024-09-01T11:10:30.075Z",
+    "updated": "2024-09-01T11:10:30.075Z",
+    "author": 36,
+    "name": "Michael Dudley station",
+    "description": "College than field. Somebody also foreign top.\nBusiness business claim city might run. Fear federal education someone oil himself note.",
+    "price": "24.48",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 22,
+  "fields": {
+    "public_id": "fd51e2c4-a6ba-45fc-a252-7a9a42946370",
+    "created": "2024-09-01T11:10:30.076Z",
+    "updated": "2024-09-01T11:10:30.076Z",
+    "author": 36,
+    "name": "Alexis Walker this",
+    "description": "Local small last deal.\nSmile summer state western care size. Least dinner painting beat create manager.\nVisit every grow. Indicate product budget security how would raise.",
+    "price": "18.51",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 23,
+  "fields": {
+    "public_id": "4b8b8fa9-608c-4aeb-b7d5-fe57447edb04",
+    "created": "2024-09-01T11:10:30.076Z",
+    "updated": "2024-09-01T11:10:30.076Z",
+    "author": 35,
+    "name": "Dawn Rodriguez door",
+    "description": "Watch without bring third long also. Eat board win pattern plan.\nDecade institution action recognize often.\nYeah realize artist general degree story. Because truth institution yet.",
+    "price": "50.32",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 24,
+  "fields": {
+    "public_id": "ec12d19c-278b-47a3-bf0e-45bed267e713",
+    "created": "2024-09-01T11:10:30.077Z",
+    "updated": "2024-09-01T11:10:30.077Z",
+    "author": 37,
+    "name": "Shawn Cunningham reach",
+    "description": "Speech various no model.\nStandard meet computer final often. View health clear number environment cell enough. Mean whole shoulder others need page art ever.",
+    "price": "62.94",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 25,
+  "fields": {
+    "public_id": "38b12ed8-625b-45d5-8c0f-fb4ce618f5ac",
+    "created": "2024-09-01T11:10:30.078Z",
+    "updated": "2024-09-01T11:10:30.078Z",
+    "author": 47,
+    "name": "Theresa Valentine authority",
+    "description": "Partner will first wear on high stuff. Black pressure week take others your. Home change character brother newspaper life cover technology.",
+    "price": "66.78",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 26,
+  "fields": {
+    "public_id": "37b002e1-a8b5-41fe-8ac9-8724bef87434",
+    "created": "2024-09-01T11:10:30.079Z",
+    "updated": "2024-09-01T11:10:30.079Z",
+    "author": 17,
+    "name": "Chad Chang kind",
+    "description": "Moment development organization language law fear. Effort prevent hard.\nWar trade small like role each understand change. Support song else cover parent firm choice. How door same sing role for.",
+    "price": "34.05",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 27,
+  "fields": {
+    "public_id": "28119609-36f4-4e64-ae33-fee2bdcad177",
+    "created": "2024-09-01T11:10:30.080Z",
+    "updated": "2024-09-01T11:10:30.080Z",
+    "author": 13,
+    "name": "Kathy Peterson use",
+    "description": "Lose message degree future teacher only. Teacher describe home cut. Task could ten project.\nMachine beyond talk current.",
+    "price": "21.34",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 28,
+  "fields": {
+    "public_id": "8ec6c780-aa7f-4e8e-85bf-af8502e970d2",
+    "created": "2024-09-01T11:10:30.081Z",
+    "updated": "2024-09-01T11:10:30.081Z",
+    "author": 31,
+    "name": "David Curtis DDS night",
+    "description": "Hot spend mention us television today. Force base quality many with happen. Hand raise democratic in.\nBuy focus particular war similar. Place wind civil how garden. With conference child federal.",
+    "price": "85.57",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 29,
+  "fields": {
+    "public_id": "178bc50e-9e51-47e1-bc1b-9765ac204116",
+    "created": "2024-09-01T11:10:30.082Z",
+    "updated": "2024-09-01T11:10:30.082Z",
+    "author": 28,
+    "name": "Brandon Taylor pick",
+    "description": "Sense small item maybe pressure year government option. Stop memory concern sign whatever hope model later. Fine set table ahead now.\nStyle total individual remember less.",
+    "price": "42.55",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 30,
+  "fields": {
+    "public_id": "bb439249-5896-4638-b122-de352924c286",
+    "created": "2024-09-01T11:10:30.082Z",
+    "updated": "2024-09-01T11:10:30.082Z",
+    "author": 45,
+    "name": "Eric Davis collection",
+    "description": "Discuss lay American on mission financial stage. Development yet new including impact modern. Base form teacher reduce sign.",
+    "price": "57.28",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 31,
+  "fields": {
+    "public_id": "b69b9d68-ec11-4089-97c5-00609e6bfe48",
+    "created": "2024-09-01T11:10:30.083Z",
+    "updated": "2024-09-01T11:10:30.083Z",
+    "author": 14,
+    "name": "Angela Carney economy",
+    "description": "Check candidate positive. Provide raise current condition production page account.\nLevel within main and. Shoulder open book resource down exactly scene.",
+    "price": "24.86",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 32,
+  "fields": {
+    "public_id": "cb9666e0-f478-487a-9537-c0dfdf9564f0",
+    "created": "2024-09-01T11:10:30.084Z",
+    "updated": "2024-09-01T11:10:30.084Z",
+    "author": 7,
+    "name": "Gina Ware course",
+    "description": "More practice executive only foreign. Federal pressure rise worker public. Relationship very increase affect member return.\nI despite society side machine want enjoy that.",
+    "price": "16.50",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 33,
+  "fields": {
+    "public_id": "8f3842a4-96f5-4e45-94f4-e4e0581df0e1",
+    "created": "2024-09-01T11:10:30.085Z",
+    "updated": "2024-09-01T11:10:30.085Z",
+    "author": 36,
+    "name": "Mark Romero Congress",
+    "description": "Community none address tonight high. Inside glass her land around late charge safe. Table its article bad prevent. Policy attack until total deep yes.",
+    "price": "47.65",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 34,
+  "fields": {
+    "public_id": "4b7766d8-b25b-43d9-9d9f-f79dc21831e4",
+    "created": "2024-09-01T11:10:30.086Z",
+    "updated": "2024-09-01T11:10:30.086Z",
+    "author": 31,
+    "name": "Diana Andrade hour",
+    "description": "Man street hour natural. This seat blood out win size. Human character sea character onto ok. Choice senior also figure however sister store between.",
+    "price": "21.19",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 35,
+  "fields": {
+    "public_id": "16abbc89-639b-49d6-ac03-728d457ca24e",
+    "created": "2024-09-01T11:10:30.087Z",
+    "updated": "2024-09-01T11:10:30.087Z",
+    "author": 51,
+    "name": "Jessica Patel wind",
+    "description": "Nearly add important treatment fund brother involve. Through officer include sister worker court. Set run side feel raise statement.",
+    "price": "23.63",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 36,
+  "fields": {
+    "public_id": "b48a6956-8db0-47c8-a5b8-eb1aba23040f",
+    "created": "2024-09-01T11:10:30.088Z",
+    "updated": "2024-09-01T11:10:30.088Z",
+    "author": 48,
+    "name": "Meghan Morales really",
+    "description": "Best apply action family better. Plan claim mission day. Analysis girl person middle range help.",
+    "price": "21.12",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 37,
+  "fields": {
+    "public_id": "2f9bd511-4893-441a-aeeb-49a9cafc1571",
+    "created": "2024-09-01T11:10:30.088Z",
+    "updated": "2024-09-01T11:10:30.088Z",
+    "author": 43,
+    "name": "Stacy Vazquez billion",
+    "description": "Defense cold choice investment raise little. Him really sometimes market term away official ahead.",
+    "price": "37.95",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 38,
+  "fields": {
+    "public_id": "10ff97d4-1b65-49f1-aed4-950a966eb991",
+    "created": "2024-09-01T11:10:30.089Z",
+    "updated": "2024-09-01T11:10:30.089Z",
+    "author": 17,
+    "name": "Richard Robinson total",
+    "description": "This believe central act effect. Keep design order food television data.\nUnderstand hear relate product. Go glass during. Dog lay sit human decision run in.",
+    "price": "75.93",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 39,
+  "fields": {
+    "public_id": "56dfb532-128a-41f4-b6ac-e51d8279fe68",
+    "created": "2024-09-01T11:10:30.090Z",
+    "updated": "2024-09-01T11:10:30.090Z",
+    "author": 43,
+    "name": "Peter Smith stay",
+    "description": "Agent quality push suffer interest middle too. Foot explain student sea serious change fact.\nInterview civil give value part. Food side school within responsibility word six glass.",
+    "price": "33.08",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 40,
+  "fields": {
+    "public_id": "b776f71f-2392-49be-b49e-d923d633cb5b",
+    "created": "2024-09-01T11:10:30.091Z",
+    "updated": "2024-09-01T11:10:30.091Z",
+    "author": 16,
+    "name": "Tara Fleming father",
+    "description": "Stage trouble might move. Memory management place your building nor long. Meet fill everybody lot maybe game pay.",
+    "price": "26.30",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 41,
+  "fields": {
+    "public_id": "9f67b697-6216-4e54-bd28-ba2513acf926",
+    "created": "2024-09-01T11:10:30.092Z",
+    "updated": "2024-09-01T11:10:30.092Z",
+    "author": 54,
+    "name": "Calvin Barnett identify",
+    "description": "Thus early green executive. School tonight question together natural collection. Huge treatment future old several hair.",
+    "price": "56.35",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 42,
+  "fields": {
+    "public_id": "905dacf4-7092-420c-b7be-55aced83847c",
+    "created": "2024-09-01T11:10:30.092Z",
+    "updated": "2024-09-01T11:10:30.092Z",
+    "author": 24,
+    "name": "Crystal Pacheco person",
+    "description": "His yard your consumer we. Whom season by plan behind help. Standard force establish environmental administration Mr opportunity.",
+    "price": "86.32",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 43,
+  "fields": {
+    "public_id": "19eea111-fe84-4c9b-99e4-6881d7c42f6f",
+    "created": "2024-09-01T11:10:30.093Z",
+    "updated": "2024-09-01T11:10:30.093Z",
+    "author": 32,
+    "name": "Keith Bartlett something",
+    "description": "Toward large friend item surface point. Friend senior house sure artist grow. Local information wrong all fight industry condition.",
+    "price": "77.39",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 44,
+  "fields": {
+    "public_id": "7ab0ac17-e672-4bb5-85f0-99259f6c3cfe",
+    "created": "2024-09-01T11:10:30.094Z",
+    "updated": "2024-09-01T11:10:30.094Z",
+    "author": 33,
+    "name": "Timothy Miles economic",
+    "description": "Investment fine arrive art mother watch. Learn interest student important hotel style. Main leg step.",
+    "price": "95.61",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 45,
+  "fields": {
+    "public_id": "2e24b04f-4ab8-4358-b2d2-48db17284199",
+    "created": "2024-09-01T11:10:30.094Z",
+    "updated": "2024-09-01T11:10:30.094Z",
+    "author": 17,
+    "name": "Micheal Hill special",
+    "description": "Life explain far coach every sort direction reason. About real become someone.\nCar ball art far book.\nStart fly pull whole. Painting sea defense thousand personal authority require.",
+    "price": "74.99",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 46,
+  "fields": {
+    "public_id": "113ee99a-a962-448d-9512-40b52daab588",
+    "created": "2024-09-01T11:10:30.095Z",
+    "updated": "2024-09-01T11:10:30.095Z",
+    "author": 20,
+    "name": "Desiree Webb begin",
+    "description": "Worker family scene long Mr and degree.\nChallenge result check throughout at on. Machine agreement name thus tend.",
+    "price": "76.25",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 47,
+  "fields": {
+    "public_id": "bbe8fbab-b325-43c1-a938-c842ee153843",
+    "created": "2024-09-01T11:10:30.096Z",
+    "updated": "2024-09-01T11:10:30.096Z",
+    "author": 44,
+    "name": "Craig Taylor discuss",
+    "description": "It nothing information side professor cover material. Hair other nice. Ahead list politics site.\nGeneral industry maybe miss game time board. Else notice fall.",
+    "price": "92.60",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 48,
+  "fields": {
+    "public_id": "0e5fcebf-7fc6-4a22-ab1e-d6ee7dbe3bcf",
+    "created": "2024-09-01T11:10:30.097Z",
+    "updated": "2024-09-01T11:10:30.097Z",
+    "author": 37,
+    "name": "Stephanie Maddox success",
+    "description": "Whole soon up group. Father Congress eight media beautiful rise yard.\nOption second age rate. All court line must same next for.",
+    "price": "70.57",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 49,
+  "fields": {
+    "public_id": "4a178809-3cbf-4e9c-813c-8d726d387be4",
+    "created": "2024-09-01T11:10:30.097Z",
+    "updated": "2024-09-01T11:10:30.097Z",
+    "author": 15,
+    "name": "Steven Hebert agree",
+    "description": "Politics ready lawyer feel movement TV pick. New sound security five require task.\nBuilding more investment. General treat friend front end project away treatment.",
+    "price": "22.85",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 50,
+  "fields": {
+    "public_id": "66f45996-222d-4030-8b50-9d976a3b4cb2",
+    "created": "2024-09-01T11:10:30.098Z",
+    "updated": "2024-09-01T11:10:30.098Z",
+    "author": 30,
+    "name": "Helen Sims serve",
+    "description": "Line total leave section example protect. Long color people thought during simple. Information employee according never raise require after other. Agency management pretty ball early draw player.",
+    "price": "69.99",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 51,
+  "fields": {
+    "public_id": "01746218-dddc-4fe7-b4bc-889f37688d52",
+    "created": "2024-09-01T11:10:30.099Z",
+    "updated": "2024-09-01T11:10:30.099Z",
+    "author": 18,
+    "name": "Michael Gilbert difficult",
+    "description": "Data just treatment cup cup democratic. Grow consider trouble candidate subject significant. Fire bill by book page which.",
+    "price": "53.49",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 52,
+  "fields": {
+    "public_id": "b04e87fe-2a53-43ed-9ff2-a5d485bd2e8d",
+    "created": "2024-09-01T11:10:30.100Z",
+    "updated": "2024-09-01T11:10:30.100Z",
+    "author": 23,
+    "name": "Jesus Schultz knowledge",
+    "description": "Provide themselves hit American final similar various. Husband economic pass government employee.\nEye art institution offer arm maybe nature.",
+    "price": "57.90",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 53,
+  "fields": {
+    "public_id": "5acc01a0-bda5-424a-8822-1ce53926fabb",
+    "created": "2024-09-01T11:10:30.101Z",
+    "updated": "2024-09-01T11:10:30.101Z",
+    "author": 17,
+    "name": "Christopher Allen little",
+    "description": "Few as stock defense.\nArticle forward thank necessary. Six condition great garden generation article. Blood occur game.",
+    "price": "61.36",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 54,
+  "fields": {
+    "public_id": "4eebfce4-d0a8-4fe6-9646-97ab99c353cc",
+    "created": "2024-09-01T11:10:30.101Z",
+    "updated": "2024-09-01T11:10:30.101Z",
+    "author": 17,
+    "name": "Frances Roy ball",
+    "description": "Lay all draw agree strong follow along. Hold walk take mention also national. These us work cup scene experience.",
+    "price": "21.30",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 55,
+  "fields": {
+    "public_id": "996dacb6-19fb-4242-b87a-5654801600eb",
+    "created": "2024-09-01T11:10:30.102Z",
+    "updated": "2024-09-01T11:10:30.102Z",
+    "author": 54,
+    "name": "Jocelyn Wilson either",
+    "description": "Amount usually garden house though. Should head source hundred. Ok especially go modern.\nBack according kid how behind laugh. Prepare sport mean cover sport hope agency hear.",
+    "price": "70.31",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 56,
+  "fields": {
+    "public_id": "66e88cbd-4b84-45ab-adf5-72b073441301",
+    "created": "2024-09-01T11:10:30.103Z",
+    "updated": "2024-09-01T11:10:30.103Z",
+    "author": 42,
+    "name": "Carol Arellano stage",
+    "description": "Five bill popular with task ever west pull.\nPolitical beat hold form make. Open energy somebody real government. Letter future those rather organization even food.",
+    "price": "24.56",
+    "edited": false
+  }
+},
+{
+  "model": "core_product.product",
+  "pk": 57,
+  "fields": {
+    "public_id": "1fc61eda-2417-4dfc-aa72-ee7e14c0f0cc",
+    "created": "2024-09-01T11:10:30.104Z",
+    "updated": "2024-09-01T11:10:30.104Z",
+    "author": 18,
+    "name": "Daniel George likely",
+    "description": "Her eye road class next career open. Eight remember whatever pick.\nSuccess option member find price recent. Job similar once final enough.",
+    "price": "34.40",
+    "edited": false
+  }
+}
+]
