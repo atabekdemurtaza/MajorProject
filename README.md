@@ -1,4 +1,4 @@
-# Major Project: Recommender System with AI, Django, and Vue.js
+﻿# Major Project: Recommender System with AI, Django, and Vue.js
 
 This project is a full-stack implementation of a **Recommender System** using AI techniques for product recommendation. It combines a **Django backend** with machine learning models and a **Vue.js frontend** to provide personalized recommendations for users. The project includes features such as collaborative filtering, content-based filtering, and a hybrid recommendation system.
 
@@ -130,7 +130,12 @@ You can run unit tests for both the backend and frontend:
 ### Frontend (Vue)
    ```bash 
    npm run test
+
    ```
+
+### Full Scheme 
+![alt text](Scheme.jpg)
+
 
 ### Future Enhancements
 
