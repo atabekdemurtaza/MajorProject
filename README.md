@@ -34,7 +34,7 @@ This project was developed as part of the Major Project for demonstrating the in
 - **Database**: PostgreSQL
 - **Machine Learning Models**: Python (Scikit-learn, TensorFlow)
 - **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Docker (optional)
+- **Deployment**: Docker
 
 ## Installation
 
